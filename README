@@ -1,0 +1,8 @@
+== Basic Requirements ==
+you need
+* Python (2.5, 2.6 or 2.7)
+* NLTK (http://www.nltk.org/)
+* Numpy (http://numpy.scipy.org/)
+* pycluster (http://bonsai.hgc.jp/~mdehoon/software/cluster/software.htm)
+* hcluster (http://code.google.com/p/scipy-cluster/)
+* JSONView (http://jsonview.com/)
